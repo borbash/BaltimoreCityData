@@ -193,7 +193,7 @@
       "properties": {
         "address": "EDMONDSON AVE & COOKS LN",
         "direction": "E/B",
-        "street": "Edmonson",
+        "street": "Edmondson",
         "crossStreet": "Cooks Lane",
         "intersection": "Edmonson  & Cooks Lane"
       },
@@ -414,7 +414,7 @@
       "properties": {
         "address": "EDMONDSON AVE & N ATHOL AVE",
         "direction": "E/B",
-        "street": "Edmonson",
+        "street": "Edmondson",
         "crossStreet": "Woodbridge Ave",
         "intersection": "Edmonson\n  & Woodbridge Ave"
       },
@@ -431,7 +431,7 @@
       "properties": {
         "address": "EDMONDSON AVE & N ATHOL AVE",
         "direction": "W/B",
-        "street": "Edmonson ",
+        "street": "Edmondson ",
         "crossStreet": "Woodbridge Ave",
         "intersection": "Edmonson \n & Woodbridge Ave"
       },
@@ -771,7 +771,7 @@
       "properties": {
         "address": "EDMONDSON AVE & N HILTON ST",
         "direction": "E/B",
-        "street": "Edmonson",
+        "street": "Edmondson",
         "crossStreet": "Hilton St",
         "intersection": "Edmonson  & Hilton St"
       },
